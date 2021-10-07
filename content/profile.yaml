@@ -1,26 +1,26 @@
 - profile:
-  initials: JD
-  name: John Doe
-  profession: Web Developer
+  initials: BS
+  name: Brandon Simpson
+  profession: Full Stack Software Engineer
   image: images/profile.jpg
-  location: New York, USA
+  location: California, USA
   relocation: true
-  company: Atomic Studio
+  company: Open
   for_hire: true
-  focus: Learning Gatsby
-  focus_url: https://gatsbyjs.org
+  focus: Full Stack Web Development
+  focus_url: https://github.com/Omstachu
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+    I enjoy projects that are challenging and provide me with the opportunity to expand my breadth of knowledge. Confident communicator, strategic thinker, and skilled leader due to years of entrepreneurship, I have the proven ability to motivate, educate, and manage any team that I'm placed in.
 
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    Looking for a role within a team that will allow me to be exposed to new technologies and many opportunities to learn and improve.
   skills:
     - JavaScript
+    - Python
     - HTML / CSS
-    - Ruby on Rails
   tools:
-    - React
-    - VSCode
-    - Gatsby
+    - React & Redux
+    - Flask / Express
+    - Postgresql
   budget:
     currency: $
     min: 5
