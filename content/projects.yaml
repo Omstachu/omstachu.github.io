@@ -23,3 +23,11 @@
     - Express
   icon: website
   image: images/pokeprobe_catch.png
+
+- name: Resume
+  url: https://docs.google.com/document/d/1WgzViCnR8fkkT7qrmo_FJSWwFgwWMyqm1MaUXf2MB-k/edit?usp=sharing
+  description:
+  status: live
+  tags:
+  icon: website
+  image: images/resume_image.png
