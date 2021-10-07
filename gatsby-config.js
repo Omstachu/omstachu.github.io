@@ -19,6 +19,12 @@ module.exports = {
       __key: "images",
     },
     {
+      resolve: "@wkocjan/gatsby-theme-intro",
+      options: {
+        theme: "classic",
+      },
+    },
+    {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "pages",
